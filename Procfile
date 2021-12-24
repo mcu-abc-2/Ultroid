@@ -1,1 +1,1 @@
-worker: python3 -m resources/startup/startup.sh
+worker bash resources/startup/startup.sh
